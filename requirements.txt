@@ -9,3 +9,4 @@ langchain-aws==0.2.11
 #openai==1.12.0
 google-cloud-firestore==2.15.0
 python-dotenv==1.0.0
+
